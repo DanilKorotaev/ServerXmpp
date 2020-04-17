@@ -1,5 +1,5 @@
 var server = 'nulnow.com'
-var BOSH_SERVICE = 'https://nulnow.com:7070/http-bind/'
+var BOSH_SERVICE = ' https://nulnow.com:7443/http-bind/ '
 var connection = null
 
 var url = BOSH_SERVICE;
